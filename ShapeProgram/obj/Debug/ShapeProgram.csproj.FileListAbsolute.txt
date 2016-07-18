@@ -1,0 +1,6 @@
+C:\Users\saycm01\Desktop\ShapeProgram\bin\Debug\ShapeProgram.exe.config
+C:\Users\saycm01\Desktop\ShapeProgram\obj\Debug\ShapeProgram.csprojResolveAssemblyReference.cache
+C:\Users\saycm01\Desktop\ShapeProgram\bin\Debug\ShapeProgram.exe
+C:\Users\saycm01\Desktop\ShapeProgram\bin\Debug\ShapeProgram.pdb
+C:\Users\saycm01\Desktop\ShapeProgram\obj\Debug\ShapeProgram.exe
+C:\Users\saycm01\Desktop\ShapeProgram\obj\Debug\ShapeProgram.pdb
